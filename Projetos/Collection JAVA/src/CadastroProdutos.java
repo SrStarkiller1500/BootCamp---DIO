@@ -30,6 +30,4 @@ public class CadastroProdutos {
     public static void main(String[] args) {
         CadastroProdutos cadastroProdutos = new CadastroProdutos();
     }
-
-    
 }
