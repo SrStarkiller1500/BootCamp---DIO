@@ -1,11 +1,11 @@
-# 🚨Repositório sujeito a alterações a qualquer momento🚨
+# 🚨 Repositório sujeito a alterações a qualquer momento 🚨
 
 #  Praticando o JAVA💻🤓
 
 Esse repositório ficará para as praticas em JAVA, do curso da DIO  e praticas no Geral
 
 ## 👾 Primeiros passos (Relembrnado o início de tudo)
-- Nessa Primeira etapa ficará os exempllos dos primeiros passoa para relembrar o contedu visto na faculdade
+- Nessa Primeira etapa ficará os exemplos dos primeiros passoa para relembrar o conteúdo visto na faculdade.
 
 ## 🏃‍♂️ Exercícios
 
@@ -18,7 +18,7 @@ Esse repositório ficará para as praticas em JAVA, do curso da DIO  e praticas 
 
 
 # Sobre Mim
-Olá me chamo Rafael, tenho 29 anos, formado em Ciencia da computação mas trabalhnado como analista de Suporte atualmente, retomando os estudos e em busca de uma mudança de carreira apos um tempo de hiato dos estudos.
+Olá me chamo Rafael, tenho 29 anos, formado em Ciência da Computação mas trabalhnado como analista de Suporte atualmente, retomando os estudos e em busca de uma mudança de carreira apos um tempo de hiato dos estudos.
 
 # Você pode se conectar comigo em:
 
