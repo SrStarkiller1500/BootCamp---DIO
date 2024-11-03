@@ -1,19 +1,19 @@
-# 🚨 Repositório sujeito a alterações a qualquer momento 🚨
+# Repositório sujeito a alterações a qualquer momento 🚨
 
 #  Praticando o JAVA💻🤓
 
-Esse repositório ficará para as praticas em JAVA, do curso da DIO  e praticas no Geral
+Esse repositório ficará para as praticas em JAVA, do curso da DIO  e praticas no Geral tudo dentro da pasta "Projetos" facilitando a utilização em qualquer 💻
 
 ## 👾 Primeiros passos (Relembrnado o início de tudo)
 - Nessa Primeira etapa ficará os exemplos dos primeiros passoa para relembrar o conteúdo visto na faculdade.
 
-## 🏃‍♂️ Exercícios
+## 🏋️‍♂️ Exercícios
 
-- Nessa seghunda etapa ficam alguns exercícios
+- Nessa segunda etapa ficam alguns exercícios
 
 ## 😎 Desafios
 
-- Por último ficam os desafios de projeto
+- Por último ficam os desafios de projeto propostos durante a jornada do CURSO
 
 
 
@@ -30,7 +30,7 @@ Olá me chamo Rafael, tenho 29 anos, formado em Ciência da Computação mas tra
 
 # Habilidades
 
-Aqui estão algumas linguagens que eu ja tive contato:
+Aqui estão algumas linguagens que eu ja tive contato ou estou praticando:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
