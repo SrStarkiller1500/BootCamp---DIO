@@ -1,11 +1,11 @@
 # Repositório sujeito a alterações a qualquer momento 🚨
 
-#  Praticando o JAVA💻🤓
+#  O Conteúdo desse Repositório 💻🤓
 
-Esse repositório ficará para as praticas em JAVA, do curso da DIO  e praticas no Geral tudo dentro da pasta "Projetos" facilitando a utilização em qualquer 💻
+Esse repositório ficará para armazenar os exemplos e praticas em JAVA, do curso da DIO e praticas no Geral tudo dentro da pasta "Projetos" facilitando a utilização em qualquer 💻
 
 ## 👾 Primeiros passos (Relembrando o início de tudo)
-- Nessa Primeira etapa ficará os exemplos dos primeiros passoa para relembrar o conteúdo visto na faculdade.
+- Começando Nessa Primeira etapa ficará os exemplos dos primeiros passoa para relembrar o conteúdo visto na faculdade.
 
 ## 🏋️‍♂️ Exercícios
 
