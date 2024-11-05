@@ -44,4 +44,4 @@ Aqui algumas ferramentas que eu ja tive contato:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SrStarkiller1500&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/SrStarkiller1500/BootCamp---DIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SrStarkiller1500/BootCamp---DIO](https://github.com/SrStarkiller1500/BootCamp---DIO))
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/SrStarkiller1500/BootCamp---DIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30&title_color=E94D5F&text_color=FFF)](https://github.com/SrStarkiller1500/BootCamp---DIOA3DC)
